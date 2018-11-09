@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/powocoin_bg.qm</file>
+        <file alias="ca">locale/powocoin_ca.qm</file>
+        <file alias="cs">locale/powocoin_cs.qm</file>
+        <file alias="da">locale/powocoin_da.qm</file>
+        <file alias="de">locale/powocoin_de.qm</file>
+        <file alias="en">locale/powocoin_en.qm</file>
+        <file alias="en_US">locale/powocoin_en_US.qm</file>
+        <file alias="es">locale/powocoin_es.qm</file>
+        <file alias="fi">locale/powocoin_fi.qm</file>
+        <file alias="fr_FR">locale/powocoin_fr_FR.qm</file>
+        <file alias="it">locale/powocoin_it.qm</file>
+        <file alias="ja">locale/powocoin_ja.qm</file>
+        <file alias="ko_KR">locale/powocoin_ko_KR.qm</file>
+        <file alias="nl">locale/powocoin_nl.qm</file>
+        <file alias="pl">locale/powocoin_pl.qm</file>
+        <file alias="pt">locale/powocoin_pt.qm</file>
+        <file alias="pt_BR">locale/powocoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/powocoin_ro_RO.qm</file>
+        <file alias="ru">locale/powocoin_ru.qm</file>
+        <file alias="sk">locale/powocoin_sk.qm</file>
+        <file alias="sv">locale/powocoin_sv.qm</file>
+        <file alias="uk">locale/powocoin_uk.qm</file>
+        <file alias="zh_CN">locale/powocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/powocoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

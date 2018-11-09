@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Powocoin
+Comment=Powocoin P2P Cryptocurrency
+Comment[fr]=Powocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Powocoin, eşten eşe kriptografik sanal para birimi
+Exec=powocoin-qt %u
+Terminal=false
+Type=Application
+Icon=powocoin128
+MimeType=x-scheme-handler/powocoin;
+Categories=Office;Finance;
